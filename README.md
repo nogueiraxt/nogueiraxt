@@ -1,6 +1,6 @@
 <div align="center">
   
-# Manoel Nogueira Pinheiro Bezerra
+# Nogueira Pinheiro
 ### Desenvolvedor Python | Web | Django & Flask
 
 </div>
